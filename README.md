@@ -20,5 +20,8 @@ Being able to control a project in real time with just your phone would be very 
 - Use a Bot Framework bot to set up a "Host session" and get a "Session ID"
 - The "Status" of the demo can be changed in real time by interacting with a Bot Framework bot. (Example command "Change the scene to ___"). From both inside the app, as well as any user interacting with the bot on a chat platform who has the session ID. 
 
+## Solution Architecture (Draft)
+![MR Demo Bot Architecture](https://github.com/Ogamja/MRDemoBot/images/Architecture.png)
+
 ## Leverage Plan
 From there, we could implement a simple information based game (like [Keep Talking and Nobody Explodes](https://en.wikipedia.org/wiki/Keep_Talking_and_Nobody_Explodes), or various [Jackbox](https://en.wikipedia.org/wiki/Jackbox_Games) title) and/or generalize the code to engable integration in many different kinds of MR projects
