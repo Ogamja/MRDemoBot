@@ -10,7 +10,7 @@
 
 
 ## Challenge Statement
-Some of SEs/PMs demo MR all the time. Often they only have one headset. Sometimes, it's hard to tell people what to do exactly as the navigate mixed reality for the first time. 
+Some of SEs/PMs (+ most of MR developers / studio) demo MR all the time. Often they only have one headset. Sometimes, it's hard to tell people what to do exactly as the navigate mixed reality for the first time. 
 
 Being able to control a project in real time with just your phone would be very useful for lots of different type of apps. In addtion to all sorts of new cross platform interaction between local and remote users, one MR App to many potential bot sessions.
 
@@ -24,4 +24,9 @@ Being able to control a project in real time with just your phone would be very 
 ![MR Demo Bot Architecture](https://github.com/Ogamja/MRDemoBot/blob/master/images/Architecture.png)
 
 ## Leverage Plan
+### Competitive / Alternative Technologies 
+*TBD*
+### Stakeholders and Onboarding Strategies
+*TBD*
+### Next Steps
 From there, we could implement a simple information based game (like [Keep Talking and Nobody Explodes](https://en.wikipedia.org/wiki/Keep_Talking_and_Nobody_Explodes), or various [Jackbox](https://en.wikipedia.org/wiki/Jackbox_Games) title) and/or generalize the code to engable integration in many different kinds of MR projects
